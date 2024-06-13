@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import hand_tracker as ht
 import time
-import autopy as ap
+import pyautogui as pag
 
 cam_width, cam_height = 640, 480
 
