@@ -42,6 +42,8 @@ Hit the run button on `virtual_mouse.py` file to run the program.
 
 Note: Make sure that the camera is connected to the computer. Also if you are not using the default camera, change the camera index in the `cv2.VideoCapture()` function in the `virtual_mouse.py` file.
 
+Enjoy!!! 😁
+
 
 
 
